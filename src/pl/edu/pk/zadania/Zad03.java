@@ -17,7 +17,7 @@ public class Zad03 {
         int dlugosc = haslo.length();
         String silaHasla;
 //logika
-        if (dlugosc < 8) {
+        if (dlugosc < 10) {
             silaHasla = "Słabe";
         } else if (dlugosc <= 12) {
             silaHasla = "Średnie";
