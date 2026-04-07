@@ -40,6 +40,7 @@ public class Zad02a {
         System.out.println("");
         System.out.println("---------PODSUMOWANIE---------");
         System.out.println("---------PODSUMOWANIE---------");
+        System.out.println("---------PODSUMOWANIE---------");
 
 
     }
