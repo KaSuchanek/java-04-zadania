@@ -43,6 +43,7 @@ public class Zad01 {
         if (wiek >= wymaganyWiek) {
             System.out.println("Możesz kupić alkohol w kraju " + krajZamieszkania.toUpperCase() +".");
         } else {
+            System.out.println("--------------zapis po zakonczeniu ----------");
             System.out.println("Niestyt, w " + krajZamieszkania.toUpperCase() + " musisz mieć ukończone " + wymaganyWiek + " lat, żeby kupić alkohol.");
         }
     }
